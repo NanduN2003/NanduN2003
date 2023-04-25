@@ -47,6 +47,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nanda-kishore-reddy-neelam-683082206/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	<a href="mailto:neelamkishore27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="(https://www.kaggle.com/nandakishoreneelam/)"><img src="(https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)"/></a>	
 <a href="(https://www.hackerrank.com/neelamkishore/)"><img src="(https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)"/></a>
 <a href="https://www.instagram.com/
