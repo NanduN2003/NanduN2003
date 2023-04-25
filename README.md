@@ -50,7 +50,7 @@
 <a href="(https://www.kaggle.com/nandakishoreneelam/)"><img src="(https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)"/></a>	
 <a href="(https://www.hackerrank.com/neelamkishore/)"><img src="(https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)"/></a>
 <a href="https://www.instagram.com/
-_mr.n.and.u_07/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+_mr.n.and.u_07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="http://wa.me/+919573686546"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://twitter.com/N_Nandu_Reddy"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
